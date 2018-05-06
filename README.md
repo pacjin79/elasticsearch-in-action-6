@@ -1,4 +1,4 @@
-This repository contains the code examples from the book [*Elasticsearch in Action*][2].
+This repository contains the code examples from the book [*Elasticsearch in Action*][2]. I basically refactored the code examples to work with best practices for elasticsearch version 6+.
 
 When do I need them?
 --------------------
